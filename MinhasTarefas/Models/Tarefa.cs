@@ -17,5 +17,6 @@ namespace MinhasTarefas.Models
         public DateTime Data { get; set; }
         public bool Status { get; set; }
 
+       
     }
 }
